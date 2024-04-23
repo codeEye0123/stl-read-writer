@@ -73,8 +73,3 @@ struct basic_vec3
 typedef basic_vec3<float> vec3;
 typedef basic_vec3<double> dvec3;
 ```
-
-
-## License
-
-[MIT License](./LICENSE) © Matthias Möller. Made with ♥ in Germany.
